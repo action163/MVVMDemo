@@ -1,0 +1,8 @@
+project 'MVVMDemo.xcodeproj'
+
+# Uncomment this line to define a global platform for your project
+platform :ios, '7.0'
+
+target 'MVVMDemo' do
+pod "MJRefresh"
+end
